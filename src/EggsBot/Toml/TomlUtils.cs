@@ -11,7 +11,7 @@ public static class TomlUtils
 
         foreach (var attribute in Assembly.GetExecutingAssembly().GetCustomAttributes())
         {
-            //todo
+
         }
     }
 }
